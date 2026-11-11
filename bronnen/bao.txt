@@ -450,7 +450,6 @@ une fête | een feest
 
 ## bao-verplaatsen | Bewegen & verplaatsen | Lager onderwijs
 aller | gaan
-On y va! | We vertrekken!
 sortir | buitengaan
 partir | vertrekken, weggaan
 passer | langskomen, voorbijgaan | Je peux passer chez toi à 3 h.
@@ -506,8 +505,6 @@ aider | helpen
 un cadeau | een cadeau, een geschenk | Tu donnes un cadeau à Emma?
 bonjour | dag, goeiedag
 salut | hallo, dag, hoi
-ça va (bien)? | gaat het (goed)?
-comment ça va? | hoe gaat het?
 pardon | pardon, sorry
 excusez-moi | excuseer mij, sorry
 merci | dank je, dank u, bedankt
@@ -521,10 +518,6 @@ au revoir | tot ziens, tot weerziens
 à demain | tot morgen
 à bientôt | tot binnenkort
 Bravo! | Bravo!
-Bon anniversaire! | Gelukkige verjaardag!
-Bonne chance! | Veel geluk!
-Joyeux Noël! | Vrolijk kerstfeest!
-Bonne année! | Gelukkig nieuwjaar!
 
 ## bao-lichaam | Lichaam & gezondheid | Lager onderwijs
 une tête | een hoofd
@@ -622,10 +615,6 @@ une fourchette | een vork
 une tasse (de thé) | een kopje (thee) | Tu veux une tasse de thé?
 une bouteille (d'eau) | een fles (water) | Achète une bouteille d'eau.
 un verre (de coca) | een glas (cola)
-À table! | Aan tafel!
-Bon appétit! | Smakelijk!
-C'est bon! | Het is lekker!
-Passe-moi (le pain). | Geef me (het brood) door.
 Santé! | Gezondheid!
 un menu | een menu
 un restaurant | een restaurant
@@ -715,21 +704,12 @@ une faute | een fout | Il y a une faute dans l'exercice.
 lire | lezen
 écrire | schrijven
 chatter | chatten
-Vous pouvez répéter? | Kunt u dat herhalen?
-Vous pouvez parler moins vite? | Kunt u trager spreken?
-Je ne comprends pas. | Ik begrijp het niet.
-Je ne sais pas. | Ik weet het niet.
-Comment on dit ... en français? | Hoe zeg je ... in het Frans?
 
 ## bao-weer | Weer | Lager onderwijs
 le temps | het weer | Quel temps fait-il?
 le soleil | de zon | Il y a du soleil.
 le vent | de wind | Il y a du vent.
 la neige | de sneeuw | Il y a de la neige.
-Il fait beau. | Het is mooi weer.
-Il fait chaud. | Het is warm.
-Il fait mauvais. | Het is slecht weer.
-Il fait froid. | Het is koud.
 neiger | sneeuwen | Il neige. Il va neiger.
 pleuvoir | regenen | Il pleut. Il va pleuvoir.
 un parapluie | een paraplu, een regenscherm
