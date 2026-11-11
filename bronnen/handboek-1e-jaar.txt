@@ -1,0 +1,184 @@
+# Handboek 1e middelbaar - "Liste de vocabulaire" (foto's 11/11/2026)
+# Formaat:  ## thema-id | Titel | bron
+#           Frans | Nederlands | voorbeeldzin (optioneel)
+
+## hb1-jouer-au | Sport: jouer au, à la, à l' | 1e middelbaar
+le foot(ball) | het voetbal | Je joue au football.
+le basket(ball) | het basketbal | Mon frère joue au basketball.
+le tennis | het tennis | Sa mère joue au tennis.
+le badminton | het badminton | Ils jouent au badminton.
+la pétanque | het petanque | Votre grand-père joue à la pétanque.
+le volley(ball) | het volleybal | Nous jouons au volleyball.
+
+## hb1-faire-du | Sport: faire du, de la, de l' | 1e middelbaar
+le ski | het skiën | Chaque hiver, je fais du ski.
+le snowboard | het snowboarden | Leur sœur fait du snowboard.
+la danse | het dansen | Elles font de la danse.
+l'équitation (f.) | het paardrijden | Mon cousin fait de l'équitation.
+le cyclisme | het wielrennen | Ton oncle fait du cyclisme.
+la gymnastique | het turnen | Nous faisons de la gymnastique.
+l'athlétisme (m.) | de atletiek | Tu fais de l'athlétisme.
+le judo | het judo | Ta cousine fait du judo.
+le vélo tout-terrain, le V.T.T. | het mountainbiken | Mon demi-frère fait du V.T.T.
+la natation | het zwemmen | Sa belle-sœur fait de la natation.
+la boxe | het boksen | Vous faites de la boxe?
+
+## hb1-jouer-du | Muziek: jouer du, de la, de l' | 1e middelbaar
+le piano | de piano | Je joue du piano.
+la flute (à bec) | de (blok)fluit | Tu joues de la flute.
+l'accordéon (m.) | de accordeon | Elle joue de l'accordéon.
+la batterie | het drumstel, het slagwerk | Leurs enfants jouent de la batterie.
+la trompette | de trompet | Son fils joue de la trompette.
+la guitare | de gitaar | Mon frère joue de la guitare.
+
+## hb1-activites | D'autres activités | 1e middelbaar
+faire des mots-croisés (m. pl.) | kruiswoordraadsels maken | J'aime faire des mots-croisés.
+faire des puzzles (m.) | puzzelen | Ma grand-mère fait souvent des puzzles.
+jouer aux jeux de société (m.) | gezelschapsspelletjes spelen | Je n'aime pas jouer aux jeux de société.
+jouer aux jeux vidéo (m.) | computerspelletjes spelen | Ton père joue souvent aux jeux vidéo.
+faire du shopping (m.) | shoppen | Elles font du shopping.
+chatter | chatten | Nous aimons chatter chaque soir.
+regarder la télé(vision) | tv-kijken | Parfois je regarde la télé avec mes parents.
+lire | lezen | Son frère aime lire de gros livres.
+aller au cinéma (m.) | naar de bioscoop gaan | Mon petit frère veut aller au cinéma.
+
+## hb1-verbes-er | Regelmatige werkwoorden op -ER | 1e middelbaar
+adorer | dol zijn op | J'adore le chocolat.
+aider | helpen | Il aide sa sœur à faire ses devoirs.
+aimer | houden van | Tu m'aimes encore?
+arriver | aankomen | Nous arrivons à l'école.
+chanter | zingen | Ils chantent fort, mais faux.
+chatter | chatten | Je chatte souvent avec ma meilleure amie.
+chercher | zoeken | Vous cherchez quelque chose?
+commencer | beginnen | Tu commences à quelle heure aujourd'hui?
+compter | tellen, rekenen | Il compte ses doigts.
+corriger | verbeteren, corrigeren | Les élèves corrigent leur test.
+danser | dansen | Nous dansons toute la nuit.
+demander | vragen | Tu demandes les réponses correctes.
+dessiner | tekenen | Je dessine ma mère.
+détester | haten | Elles détestent le sport.
+donner | geven | Il donne sa guitare à son cousin.
+écouter | luisteren naar | Vous écoutez la radio?
+effacer | uitwissen | Nous effaçons le tableau.
+entrer | binnenkomen | Ils entrent dans la maison.
+étudier | studeren | Nous étudions beaucoup.
+fermer | sluiten | Tu fermes la porte.
+habiter | wonen | J'habite à Paris.
+jouer | spelen | Il joue au tennis deux fois par semaine.
+manger | eten | Chaque mercredi, on mange des frites.
+montrer | tonen | Tu me montres ton école?
+nager | zwemmen | En été, les enfants nagent dans la piscine.
+oublier | vergeten | Nous n'oublions jamais nos livres.
+parler | praten | Le prof ne parle pas assez fort.
+placer | plaatsen | Tu places cette armoire où?
+pleurer | huilen | Le bébé pleure parce qu'il a faim.
+préférer | verkiezen | Vous préférez les frites ou les spaghettis?
+prononcer | uitspreken | Je prononce ce mot comment?
+raconter | vertellen | Chaque soir, papa raconte une histoire.
+regarder | kijken naar | Ils ne regardent pas la télé chaque jour.
+rencontrer | ontmoeten | Je te rencontre souvent dans le parc.
+rentrer | terug naar huis gaan, terugkeren | Nous rentrons de voyage la semaine prochaine.
+rester | blijven | Elle reste à la maison.
+travailler | werken | Tu travailles beaucoup.
+trouver | vinden | Je trouve la solution.
+visiter | bezoeken | Nous visitons ce musée.
+
+## hb1-verbes-irr | Onregelmatige werkwoorden | 1e middelbaar
+aller | gaan | Je vais au restaurant ce soir.
+avoir | hebben | Tu as une grande maison.
+devenir | worden | Les enfants deviennent grands.
+devoir | moeten | Il doit se lever tôt ce matin.
+être | zijn | Tu es d'ici?
+faire | doen, maken | Vous faites quoi dans la vie?
+pouvoir | mogen, kunnen | Nous ne pouvons pas venir à la fête.
+retenir | onthouden | Ils retiennent les mots.
+revenir | terugkomen | Je reviens dans un mois.
+savoir | weten | Tu sais donner la réponse correcte?
+tenir | (vast)houden | Elle tient toujours sa promesse.
+venir | komen | Ta sœur et toi, vous venez aussi?
+vouloir | willen | Nous voulons avoir un chat.
+recevoir | ontvangen
+
+## hb1-famille | Les membres de la famille | 1e middelbaar
+la famille | de familie | J'ai une très grande famille.
+les parents (m.) | de ouders | Mes parents font de la danse.
+la mère | de moeder | Ma mère joue du piano.
+la maman | de mama | Maman regarde la télé.
+le père | de vader | Mon père joue au foot.
+le papa | de papa | Papa déteste chanter.
+le mari | de man, de echtgenoot | Mon papa est le mari de ma maman.
+la femme | de vrouw, de echtgenote | Ma maman est la femme de mon papa.
+l'enfant (m./f.) | het kind | Moi, je suis l'enfant de mes parents.
+la fille | de dochter | La fille de mes parents, c'est ma sœur.
+le fils | de zoon | Le fils de mes parents, c'est mon frère.
+la sœur | de zus | Ma sœur est la fille de mes parents.
+le frère | de broer | Mon frère est le fils de mes parents.
+le bébé | de baby | Le bébé est le plus jeune enfant de ma famille.
+les grands-parents (m. pl.) | de grootouders | Mes grands-parents sont vieux.
+la grand-mère | de grootmoeder | Ma grand-mère est la mère de mon père.
+le grand-père | de grootvader | Mon grand-père est le père de ma mère.
+les petits-enfants (m. pl.) | de kleinkinderen | Mes grands-parents ont cinq petits-enfants!
+la petite-fille | de kleindochter | Mes parents n'ont pas encore de petite-fille.
+le petit-fils | de kleinzoon | Leur petit-fils est le fils de leur fils.
+la tante | de tante | Ma tante est la sœur de mon père.
+l'oncle (m.) | de oom | Mon oncle est le frère de ma mère.
+la cousine | de nicht (dochter van tante/oom) | Ma cousine est la fille de mon oncle.
+le cousin | de neef (zoon van tante/oom) | Mon cousin est le fils de ma tante.
+la nièce | de nicht (dochter van broer/zus) | Ma nièce est la fille de mon frère.
+le neveu | de neef (zoon van broer/zus) | Mon neveu est le fils de ma sœur.
+la belle-mère | de stiefmoeder, de schoonmoeder | Ma belle-mère est la nouvelle femme de papa.
+le beau-père | de stiefvader, de schoonvader | Mon beau-père est le nouveau mari de maman.
+la belle-sœur | de stiefzus, de schoonzus | Ma belle-sœur est la fille de ma belle-mère.
+le beau-frère | de stiefbroer, de schoonbroer | Mon beau-frère est le fils de mon beau-père.
+la demi-sœur | de halfzus | Ma demi-sœur est la fille de mon père et ma belle-mère.
+le demi-frère | de halfbroer | Mon demi-frère est le fils de ma mère et mon beau-père.
+
+## hb1-accessoires | Les accessoires | 1e middelbaar
+l'accessoire (m.) | het accessoire | Les accessoires sont très importants pour la tenue.
+le sac à main | de handtas | Je mets mon portefeuille dans le sac à main.
+l'écharpe (f.) | de sjaal | Il fait froid, donc je mets mon écharpe.
+le foulard | de halsdoek, het sjaaltje | Un foulard est un accessoire.
+la casquette | de pet | Cette casquette grise est la casquette favorite de mon frère.
+le chapeau | de hoed | Ce détective porte un chapeau noir.
+le bonnet | de muts | Il fait froid. Mets ton bonnet!
+les gants (m.) | de handschoenen | Mes gants sont assortis avec mon écharpe.
+les lunettes de soleil (f. pl.) | de zonnebril | Je pars en vacances et j'apporte mes lunettes de soleil.
+la ceinture | de riem | Ton pantalon est trop large? Mets une ceinture.
+la cravate | de stropdas | Mon père porte toujours une cravate avec son costume.
+
+## hb1-bijoux | Les bijoux | 1e middelbaar
+le bijou | het sieraad | Tu aimes les bijoux?
+la montre | het horloge | Quelle heure est-il? Je n'ai pas de montre.
+le collier | de halsketting | Ce collier est très cher.
+le bracelet | de armband | Je te donne un bracelet d'amitié.
+la bague | de ring | Ma mère a une bague en or.
+les boucles d'oreilles (f.) | de oorbellen | J'aime les boucles d'oreilles!
+
+## hb1-chaussures | Les chaussures | 1e middelbaar
+les chaussures (f.) | de schoenen | Ma grande sœur a beaucoup de chaussures.
+les bottes (f.) | de laarzen | J'aime les bottes en cuir.
+les chaussures à talons (f.) | de hakken, de schoenen met hak | Courir vite avec des chaussures à talons est impossible.
+les tennis (f.) | de sneakers, de sportschoenen | J'aime le style sportif, donc je porte souvent des tennis.
+les ballerines (f.) | de ballerina's, de platte schoenen | Les ballerines sont très faciles pour danser.
+les sandales (f.) | de sandalen | Il fait chaud, donc je porte mes sandales.
+les pantoufles (f.) | de pantoffels | Ma petite sœur perd souvent ses pantoufles.
+
+## hb1-imprimes | Les imprimés | 1e middelbaar
+imprimé(e) | bedrukt, met print | Je porte un teeshirt imprimé.
+à rayures | gestreept | J'aime porter cette robe à rayures.
+à pois | met stipjes | Minnie Mouse porte une jupe rouge à pois.
+à fleurs | met bloemetjes | Elle a un style romantique et elle aime les robes à fleurs.
+animalier, animalière | met dierenprint | Les vêtements animaliers sont en vogue!
+à carreaux | geruit | Le professeur porte toujours des chemises à carreaux.
+uni(e) | effen, zonder print | Je préfère les vêtements unis, c'est plus calme.
+
+## hb1-tissus | Les tissus | 1e middelbaar
+en coton | katoenen, van katoen | Les teeshirts sont souvent en coton.
+en soie | zijden, van zijde | J'aime les foulards en soie.
+en lin | linnen, van linnen | Cette blouse est spéciale! C'est une blouse en lin.
+en cuir | leren, van leer | Ma mère a un sac à main en cuir.
+en laine | wollen, van wol | En hiver, je porte ce pull en laine.
+en or | gouden, van goud | C'est une bague en or.
+en argent | zilveren, van zilver | Ce bracelet en argent est très beau.
+en plastique | plastic, van plastic | Ma petite sœur porte un bracelet en plastique.
+en dentelle | kanten, van kant | J'aime les robes en dentelle. C'est très romantique!

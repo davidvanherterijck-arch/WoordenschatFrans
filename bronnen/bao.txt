@@ -1,0 +1,735 @@
+# Woordenlijst Frans bij de minimumdoelen lager onderwijs (Doelenset BaO)
+# Formaat:  ## thema-id | Titel | bron
+#           Frans | Nederlands | voorbeeldzin (optioneel)
+# Komma's in het Nederlands = meerdere juiste antwoorden. (haakjes) = optioneel.
+
+## bao-bestaan | Bestaan & vraagwoorden | Lager onderwijs
+être | zijn
+il y a | er is, er ligt, er staat | Il y a un livre sur la table.
+qui? | wie? | Qui est là?
+quoi? | wat? | On mange quoi?
+qu'est-ce que? | wat? | Qu'est-ce que tu vois?
+quel, quelle? | welk? wat voor? | C'est quel mot? Quel est ce mot?
+quel! quelle! | wat een! wat voor een! | Quel jardin! Quelle fête!
+une personne | een persoon | Qui est cette personne?
+une chose | een ding | Quel est le mot pour cette chose?
+quelqu'un | iemand | Il y a quelqu'un en classe?
+quelque chose | iets | Tu entends quelque chose?
+voici (un euro) | ziehier, hier is (een euro)
+voilà (le bus) | ziedaar, daar is (de bus)
+oui | ja
+non | nee
+ne ... pas | niet, geen | Il n'y a pas de lait.
+ne ... plus | niet meer, geen meer | Il n'y a plus de pain.
+ne ... personne | niemand | Il n'y a personne en classe.
+ne ... rien | niets | Je n'entends rien.
+ne ... jamais | nooit | Il n'y a jamais de sucre.
+
+## bao-ruimte | Ruimte & plaats | Lager onderwijs
+où? | waar?
+ici | hier
+là | daar
+droit, droite | rechts, rechter- | Tu as mal à ta main droite?
+gauche, gauche | links, linker- | Mon pied gauche fait mal.
+à droite | rechts, rechtsaf, naar rechts | Prenez la porte à droite.
+à gauche | links, linksaf, naar links | Le magasin est à gauche.
+tout droit | rechtdoor | Allez tout droit.
+à (Dinant) | te, in (Dinant)
+dans (la classe) | in (de klas)
+devant (le tableau) | voor (het bord)
+derrière (la table) | achter (de tafel)
+en (Belgique) | in (België)
+sur (le bureau) | op (het bureau)
+sous (le cahier) | onder (het schrift)
+contre (la porte) | tegen (de deur)
+entre (la porte et la fenêtre) | tussen (de deur en het raam)
+à côté de (l'école) | naast (de school)
+près de (l'école) | dichtbij (de school)
+loin de (l'école) | ver van (de school)
+un coin | een hoek
+un mètre | een meter
+un kilomètre | een kilometer
+court, courte | kort
+long, longue | lang
+
+## bao-tijd | Tijd: seizoenen, maanden, dagen | Lager onderwijs
+quand? | wanneer?
+le temps | de tijd | Je n'ai pas le temps maintenant.
+un an | een jaar | Karen a 12 ans.
+une année | een jaar (periode, duur) | Il y a douze mois dans l'année.
+le printemps | de lente | Nous sommes au printemps.
+l'été (m.) | de zomer | Les grandes vacances sont en été.
+l'automne (m.) | de herfst | Il pleut souvent en automne.
+l'hiver (m.) | de winter | Il neige parfois en hiver.
+un mois | een maand | Le mois de janvier commence.
+janvier (m.) | januari | Le mois de janvier commence.
+février (m.) | februari
+mars (m.) | maart | La fête est au mois de mars.
+avril (m.) | april
+mai (m.) | mei
+juin (m.) | juni
+juillet (m.) | juli | On part en vacances en juillet.
+aout (m.) | augustus
+septembre (m.) | september
+octobre (m.) | oktober
+novembre (m.) | november
+décembre (m.) | december
+une semaine | een week
+un weekend | een weekend
+un jour | een dag | On a trois jours de vacances.
+une journée | een dag (periode, duur) | La journée est longue.
+lundi (m.) | maandag
+mardi (m.) | dinsdag
+mercredi (m.) | woensdag
+jeudi (m.) | donderdag
+vendredi (m.) | vrijdag
+samedi (m.) | zaterdag
+dimanche (m.) | zondag
+le matin | de ochtend, 's ochtends | Le matin, je me lève à 7 heures.
+l'après-midi (m./f.) | de namiddag, 's namiddags
+le soir | de avond, 's avonds
+la nuit | de nacht, 's nachts
+une heure | een uur | Quelle heure est-il? Il est 8 h 10.
+une minute | een minuut
+une seconde | een seconde
+midi | middag (12 uur) | Il est midi.
+minuit | middernacht | C'est à minuit.
+
+## bao-tijdsverloop | Tijdsverloop | Lager onderwijs
+une date | een datum | Quelle est la date?
+aujourd'hui | vandaag | Aujourd'hui, nous sommes le premier mai.
+hier | gisteren
+demain | morgen
+un anniversaire | een verjaardag
+le nouvel an | Nieuwjaar
+le carnaval | carnaval
+commencer | beginnen
+continuer | voortdoen, verderzetten
+passer | doorbrengen | Je passe l'après-midi chez un copain.
+arrêter | stoppen
+finir | eindigen, gedaan zijn | La leçon finit à 4 heures.
+d'abord | eerst, vooreerst
+puis | vervolgens, daarna, dan
+enfin | eindelijk, ten slotte
+avant (la leçon) | voor (de les)
+pendant (la leçon) | tijdens (de les)
+après (la leçon) | na (de les)
+jusqu'à (3 heures) | tot (drie uur)
+tôt | vroeg | Il est encore tôt.
+tard | laat | Il est déjà tard.
+déjà | al, reeds | Il est déjà 16 heures.
+presque | bijna | Il est presque midi.
+une fois | een keer | Je dis la phrase deux fois.
+maintenant | nu | Je peux entrer maintenant?
+tout de suite | onmiddellijk | J'arrive tout de suite.
+peut-être | misschien | Nous allons peut-être danser.
+toujours | altijd | Il fait toujours froid ici.
+souvent | dikwijls, vaak | Tu joues souvent au foot?
+parfois | soms | Je joue parfois, mais pas souvent.
+
+## bao-getallen | Getallen | Lager onderwijs
+combien? | hoeveel?
+combien de (stylos)? | hoeveel (pennen)?
+compter | tellen
+un, une | één
+deux | twee
+trois | drie
+quatre | vier
+cinq | vijf
+six | zes
+sept | zeven
+huit | acht
+neuf | negen
+dix | tien
+onze | elf
+douze | twaalf
+treize | dertien
+quatorze | veertien
+quinze | vijftien
+seize | zestien
+dix-sept | zeventien
+dix-huit | achttien
+dix-neuf | negentien
+vingt | twintig
+vingt-et-un | eenentwintig
+vingt-deux | tweeëntwintig
+trente | dertig
+trente-et-un | eenendertig
+trente-deux | tweeëndertig
+quarante | veertig
+cinquante | vijftig
+soixante | zestig
+septante | zeventig
+quatre-vingts | tachtig
+nonante | negentig
+cent | honderd
+deux-cents | tweehonderd
+mille | duizend
+deux-mille | tweeduizend
+un zéro | een nul
+un million | een miljoen
+premier, première | eerste | Janvier est le premier mois de l'année.
+deuxième | tweede
+troisième | derde
+quatrième | vierde
+cinquième | vijfde
+dernier, dernière | laatste | Le dernier bus est à 23 heures.
+
+## bao-hoeveelheid | Maten & hoeveelheid | Lager onderwijs
+un kilo | een kilo | Il y a trois kilos de poires.
+un gramme | een gram | Je voudrais 250 grammes de fromage.
+un litre | een liter | Je prends une bouteille d'un litre.
+demi, demie | half | Pour moi, un demi-litre.
+beaucoup | veel
+beaucoup de (fleurs) | veel (bloemen)
+peu | weinig
+peu de (livres) | weinig (boeken)
+chaque | elk | Je dois lire chaque mot?
+quelques | enkele | Lis d'abord quelques mots.
+tout | alles | Je ne comprends pas encore tout.
+tout le monde | iedereen | Tout le monde peut venir à la fête.
+encore | nog | Il y a encore du pain?
+assez | genoeg | Merci! J'ai assez mangé.
+assez de (chaises) | genoeg (stoelen) | Il n'y a pas assez de chaises.
+trop | te, te veel | Pas trop vite, s'il vous plait!
+trop de (tables) | te veel (tafels) | Il y a trop de tables.
+
+## bao-waarneming | Waarnemen & kleuren | Lager onderwijs
+Attention! | Opgelet! Let op!
+faire attention (à) | opletten, oppassen (voor) | Fais attention au tram!
+entendre | horen
+écouter | luisteren (naar) | Nous écoutons une chanson.
+montrer | tonen
+regarder | kijken (naar) | Tu regardes quel film?
+voir | zien
+une couleur | een kleur
+blanc, blanche | wit
+bleu, bleue | blauw
+blond, blonde | blond
+brun, brune | bruin
+gris, grise | grijs
+jaune | geel
+mauve | paars
+noir, noire | zwart
+orange | oranje
+rose | roze
+rouge | rood
+roux, rousse | ros, rossig
+vert, verte | groen
+
+## bao-waardering | Waardering: hoe is het? | Lager onderwijs
+bien | goed | Ça va bien?
+mal | slecht | Non, ça va mal.
+très (grand) | heel, zeer (groot) | Le bureau n'est pas très grand.
+vite | snel | Faites vite, on a peu de temps.
+bon, bonne | goed
+beau, belle | mooi
+joli, jolie | mooi
+fort, forte | sterk
+mauvais, mauvaise | slecht, verkeerd, niet goed
+nouveau, nouvelle | nieuw
+vieux, vieille | oud
+grand, grande | groot
+petit, petite | klein
+facile | makkelijk
+difficile | moeilijk
+chaud, chaude | warm | Le thé est encore trop chaud.
+froid, froide | koud | La soupe est déjà froide.
+chouette | tof
+formidable | geweldig
+intéressant, intéressante | interessant
+super | super, geweldig
+
+## bao-relaties | Verbindingswoorden | Lager onderwijs
+avoir | hebben
+comment? | hoe? hoezo?
+pourquoi? | waarom?
+(toi) et (moi) | (jij) en (ik)
+(toi) ou (moi) | (jij) of (ik)
+avec (moi) | met (mij)
+pour (toi) | voor (jou)
+sans (toi) | zonder (jou)
+chez (un ami) | bij (een vriend)
+alors | daarom, welnu, dan | Il neige! Alors, faites attention!
+aussi | ook | Je viens aussi.
+donc | dus | Il n'y a pas de bus, donc on va à pied.
+mais | maar | Il fait beau, mais froid.
+plus (vite) | meer (sneller) | Nous allons plus vite en métro.
+moins (vite) | minder (snel) | Ça va moins vite en bus.
+comme | zoals | Amir est petit comme sa sœur.
+mieux | beter | Ça va déjà mieux?
+même | zelfde | Ces enfants ont le même âge.
+autre | ander | C'est une autre couleur.
+pour (travailler) | om te (werken) | On est ici pour travailler.
+parce que | omdat | Je porte un pull parce qu'il fait froid.
+quand | wanneer | Je porte un short quand il fait chaud.
+si | indien, als | Si tu veux, on joue au foot.
+
+## bao-persoon | Persoonsgegevens | Lager onderwijs
+un nom | een naam | Quel est ton nom?
+un prénom | een voornaam | C'est comment, ton prénom?
+s'appeler | heten | Comment tu t'appelles? Moi, je m'appelle Liesbeth.
+habiter | wonen | Tu habites où?
+une adresse | een adres | Quelle est ton adresse?
+une rue | een straat | J'habite rue de l'École, numéro 2.
+une avenue | een laan
+une place | een plein
+un numéro | een nummer | Mon adresse est place Napoléon, numéro 13.
+un téléphone | een telefoon
+un numéro de téléphone | een telefoonnummer | Quel est ton numéro de téléphone?
+un GSM | een gsm | Le numéro de mon GSM est le ...
+un portable | een gsm, een smartphone
+un mobile | een smartphone
+un e-mail | een e-mail | Quelle est ton adresse e-mail?
+un âge | een leeftijd | Tu as quel âge?
+avoir (11) ans | (11) jaar oud zijn | J'ai 11 ans.
+un homme | een man | Le directeur est un homme.
+un monsieur | een heer | Qui est ce monsieur? C'est Jo Duval.
+Monsieur | Mijnheer (aanspreking) | Bonjour, Monsieur Duval.
+une femme | een vrouw | Le directeur est une femme.
+une dame | een dame | Qui est cette dame? C'est Bila Demir.
+Madame | Mevrouw (aanspreking) | Bonjour, Madame Demir.
+Mademoiselle | Juffrouw (aanspreking) | Bonjour, Mademoiselle Aziz.
+un garçon | een jongen
+une fille | een meisje
+un enfant | een kind
+un bébé | een baby
+un Belge | een Belg | Je suis Belge.
+une Belge | een Belgische | Elle est Belge.
+un Français | een Fransman | Vous êtes Français?
+une Française | een Française, een Franse | Madame Wins est Française.
+
+## bao-familie | Familie | Lager onderwijs
+une famille | een familie
+un père | een vader
+un papa | een papa
+une mère | een moeder
+une maman | een mama
+des parents (m.) | ouders
+un frère | een broer
+une sœur | een zus
+un fils | een zoon
+une fille | een dochter
+un grand-père | een grootvader
+une grand-mère | een grootmoeder
+des grands-parents (m.) | grootouders
+un oncle | een oom
+une tante | een tante
+
+## bao-uiterlijk | Uiterlijk & gevoelens | Lager onderwijs
+avoir les cheveux (noirs) | (zwart) haar hebben | Kerim a les cheveux noirs.
+avoir les cheveux courts | kort haar hebben
+avoir les cheveux longs | lang haar hebben
+avoir les yeux (bleus) | (blauwe) ogen hebben | Ellen a les yeux bleus.
+des lunettes (f.) | een bril | Suzy porte des lunettes.
+gentil, gentille | lief, vriendelijk
+sympa | sympathiek
+méchant, méchante | stout, boosaardig
+content, contente | blij, tevreden
+amoureux, amoureuse | verliefd
+heureux, heureuse | gelukkig
+malheureux, malheureuse | ongelukkig
+triste | droevig
+avoir peur de | bang zijn voor, schrik hebben van | J'ai peur de ce chien.
+aimer | houden van
+aimer (lire) | graag (lezen)
+avoir envie de | zin hebben in | J'ai envie de chocolat.
+vouloir | willen | Tu voudrais une glace? Oui, je voudrais bien.
+pouvoir | kunnen, mogen
+devoir | moeten
+il faut (partir) | je moet, men moet, we moeten (vertrekken)
+
+## bao-huis | Huis | Lager onderwijs
+une maison | een huis | Nous habitons une maison à Bruges.
+un appartement | een appartement, een flat | L'appartement est à quel étage?
+un étage | een verdieping | Il est au premier étage.
+une porte | een deur
+une fenêtre | een raam
+une chambre | een kamer
+une cuisine | een keuken
+un garage | een garage
+un jardin | een tuin
+un living | een woonkamer
+une salle de bains | een badkamer
+une douche | een douche
+des toilettes (f.) | een toilet, een wc | Où sont les toilettes, s.v.p.?
+une armoire | een kast
+un banc | een bank
+un bureau | een bureau
+une table | een tafel
+une chaise | een stoel
+un fauteuil | een zetel
+un lit | een bed
+une lampe | een lamp
+un ordinateur | een computer
+un portable | een laptop
+une radio | een radio
+une télé | een tv
+
+## bao-streek | Streek, land & natuur | Lager onderwijs
+un village | een dorp
+une ville | een stad | Tu aimes habiter en ville?
+un pays | een land
+la Belgique | België | Mons est une ville en Belgique.
+la France | Frankrijk | Ma tante habite en France.
+la Flandre | Vlaanderen
+la Wallonie | Wallonië
+l'Europe (f.) | Europa
+la campagne | het platteland | Nous habitons à la campagne.
+l'eau (f.) | het water | La maison est près de l'eau.
+la mer | de zee | On passe nos vacances à la mer.
+un bois | een bos
+une montagne | een berg
+la nature | de natuur
+un arbre | een boom
+une feuille | een blad
+une fleur | een bloem
+
+## bao-dieren | Dieren | Lager onderwijs
+un animal | een dier
+un oiseau | een vogel
+un poisson | een vis
+un chat | een kat
+un chien | een hond
+un lapin | een konijn
+un cochon | een varken
+un cheval | een paard
+une vache | een koe
+un coq | een haan
+une poule | een kip
+
+## bao-dagelijks | Dagelijks leven | Lager onderwijs
+se lever | opstaan
+se laver | zich wassen
+prendre une douche | een douche nemen
+s'habiller | zich aankleden
+prendre (un repas) | (een maaltijd) nemen
+aller (au travail) | (naar het werk) gaan
+dormir | slapen
+travailler | werken
+le travail | het werk
+faire (un travail) | (een werk) doen, maken
+
+## bao-vrijetijd | Spel, sport & vrije tijd | Lager onderwijs
+un jeu | een spel
+jouer | spelen | Jouer à la balle, au foot, aux cartes.
+s'amuser | zich amuseren
+gagner | winnen
+un sport | een sport
+faire du sport | sporten, sport beoefenen
+une balle | een (kleine) bal
+un ballon | een (grote) bal
+un ballon de foot | een voetbal
+un match | een match | Jouer un match de foot.
+le basket | het basketbal | Jouer au basket.
+le foot, le football | het voetbal
+la gym | het turnen | Faire de la gym.
+le tennis | het tennis | Jouer au tennis.
+le vélo | het fietsen | Faire du vélo.
+nager | zwemmen
+se promener | wandelen
+une promenade | een wandeling | Faire une promenade.
+la musique | de muziek | Jouer de la musique.
+un piano | een piano | Jouer du piano.
+une guitare | een gitaar | Jouer de la guitare.
+une chanson | een lied, een liedje
+chanter | zingen
+danser | dansen
+un film | een film
+un cinéma | een cinema, een bioscoop
+la télé | de tv
+un CD | een cd
+un DVD | een dvd
+les vacances (f.) | de vakantie | Nous sommes en vacances.
+les vacances de Noël (f.) | de kerstvakantie
+les vacances de Pâques (f.) | de paasvakantie
+un voyage | een reis
+une valise | een koffer, een valies
+une photo | een foto
+une fête | een feest
+
+## bao-verplaatsen | Bewegen & verplaatsen | Lager onderwijs
+aller | gaan
+On y va! | We vertrekken!
+sortir | buitengaan
+partir | vertrekken, weggaan
+passer | langskomen, voorbijgaan | Je peux passer chez toi à 3 h.
+s'arrêter | stilstaan, stoppen
+attendre | wachten (op) | J'attends le bus.
+courir | lopen
+tomber | vallen
+arriver | komen, aankomen
+venir | komen
+entrer | binnenkomen
+rester | blijven
+rentrer | naar huis gaan, terug naar huis gaan, thuiskomen
+une entrée | een ingang
+une sortie | een uitgang
+chercher | zoeken
+trouver | vinden
+donner | geven
+passer | doorgeven | Tu peux passer ton livre à Laïla?
+prendre | nemen
+préparer | voorbereiden, klaarmaken
+mettre | leggen, plaatsen, zetten
+ouvrir | openen, opendoen
+fermer | sluiten
+(aller) à (Paris) | naar (Parijs gaan)
+(venir) de (Mons) | van (Bergen komen)
+
+## bao-vervoer | Vervoer & verkeer | Lager onderwijs
+un avion | een vliegtuig | Nous allons en avion.
+un bateau | een boot | Nous allons en bateau.
+une voiture | een auto | Nous allons en voiture.
+un camion | een vrachtwagen | Nous allons en camion.
+un bus | een bus | Je vais en bus.
+un autobus | een autobus | Je vais en autobus.
+un métro | een metro | Je vais en métro.
+un train | een trein | Je vais en train.
+un tram | een tram | Je vais en tram.
+un vélo | een fiets | Hans va à vélo.
+une moto | een motor | Je vais à moto.
+un carrefour | een kruispunt
+un rond-point | een rotonde
+un feu | een verkeerslicht | Attention au feu rouge!
+des feux (m.) | verkeerslichten | Attention aux feux!
+
+## bao-anderen | Vrienden & beleefdheid | Lager onderwijs
+un ami | een vriend
+une amie | een vriendin
+un copain | een vriend, een maat
+une copine | een vriendin
+un voisin | een buurman
+une voisine | een buurvrouw
+aimer | houden van, liefhebben | Roméo aime Juliette.
+aider | helpen
+un cadeau | een cadeau, een geschenk | Tu donnes un cadeau à Emma?
+bonjour | dag, goeiedag
+salut | hallo, dag, hoi
+ça va (bien)? | gaat het (goed)?
+comment ça va? | hoe gaat het?
+pardon | pardon, sorry
+excusez-moi | excuseer mij, sorry
+merci | dank je, dank u, bedankt
+merci beaucoup | veel dank
+merci bien | hartelijk bedankt
+d'accord | akkoord
+de rien | graag gedaan, zonder dank
+s'il vous plait (s.v.p.) | alstublieft (bij vragen)
+s'il te plait (s.t.p.) | alsjeblieft (bij vragen)
+au revoir | tot ziens, tot weerziens
+à demain | tot morgen
+à bientôt | tot binnenkort
+Bravo! | Bravo!
+Bon anniversaire! | Gelukkige verjaardag!
+Bonne chance! | Veel geluk!
+Joyeux Noël! | Vrolijk kerstfeest!
+Bonne année! | Gelukkig nieuwjaar!
+
+## bao-lichaam | Lichaam & gezondheid | Lager onderwijs
+une tête | een hoofd
+un cheveu | een haar
+des cheveux (m.) | haren
+un œil | een oog
+des yeux (m.) | ogen
+une oreille | een oor
+un nez | een neus
+une bouche | een mond
+une dent | een tand
+un bras | een arm
+une main | een hand
+un doigt | een vinger
+une jambe | een been
+un genou | een knie
+un pied | een voet
+un ventre | een buik
+un dos | een rug
+la santé | de gezondheid
+malade | ziek
+avoir mal | pijn hebben | J'ai mal au ventre.
+
+## bao-school | School | Lager onderwijs
+une école | een school
+une classe | een klas
+un tableau | een bord
+apprendre | leren
+une leçon | een les
+un exercice | een oefening
+un devoir | een huiswerk, een huistaak
+un livre | een boek
+un cahier | een schrift
+une feuille | een blad
+une page | een bladzijde
+un stylo | een pen
+un crayon | een potlood
+une gomme | een gom
+un prof | een leerkracht, een leraar
+une prof | een leerkracht, een lerares
+un élève | een leerling
+une élève | een leerlinge
+un directeur | een directeur
+une directrice | een directrice, een directeur
+
+## bao-winkelen | Winkelen | Lager onderwijs
+une course | een boodschap
+faire des courses | boodschappen doen
+un magasin | een winkel
+un marché | een markt
+un supermarché | een supermarkt
+ouvert, ouverte | open
+fermé, fermée | gesloten
+vendre | verkopen
+acheter | kopen
+payer | betalen
+la caisse | de kassa
+un prix | een prijs
+l'argent (m.) | het geld
+un euro | een euro | Ça fait combien? Ça fait huit euros.
+un cent | een cent, een eurocent
+un centime | een centiem
+une carte | een kaart | Je peux payer avec la carte?
+
+## bao-kleding | Kleding | Lager onderwijs
+mettre (un T-shirt) | (een T-shirt) aandoen | Tu mets un short?
+porter (un pull) | (een trui) dragen | Non, je vais porter un jean.
+un vêtement | een kledingstuk
+des vêtements (m.) | kleren
+une chemise | een hemd
+un jean | een jeans
+une jupe | een rok | Une jupe courte.
+un pantalon | een broek, een lange broek
+un pull | een trui | Un pull long.
+un pyjama | een pyjama
+une robe | een jurk
+un short | een short
+un T-shirt | een T-shirt
+une veste | een vest
+une basket | een sportschoen, een basketbalschoen
+une botte | een laars
+une chaussette | een sok
+une chaussure | een schoen
+
+## bao-maaltijd | Maaltijden & aan tafel | Lager onderwijs
+un repas | een maaltijd
+un petit déjeuner | een ontbijt
+un diner | een middagmaal
+un souper | een avondmaal
+mettre la table | de tafel dekken
+une assiette | een bord
+un couteau | een mes
+une cuillère | een lepel
+une fourchette | een vork
+une tasse (de thé) | een kopje (thee) | Tu veux une tasse de thé?
+une bouteille (d'eau) | een fles (water) | Achète une bouteille d'eau.
+un verre (de coca) | een glas (cola)
+À table! | Aan tafel!
+Bon appétit! | Smakelijk!
+C'est bon! | Het is lekker!
+Passe-moi (le pain). | Geef me (het brood) door.
+Santé! | Gezondheid!
+un menu | een menu
+un restaurant | een restaurant
+
+## bao-voeding | Eten | Lager onderwijs
+avoir faim | honger hebben
+manger | eten
+un légume | een groente
+une carotte | een wortel
+un champignon | een paddenstoel
+une pomme de terre | een aardappel
+une salade | een sla
+une tomate | een tomaat
+un fruit | een stuk fruit
+une banane | een banaan
+un kiwi | een kiwi
+une orange | een sinaasappel
+une poire | een peer
+une pomme | een appel
+une baguette | een stokbrood
+un croissant | een croissant
+un pain | een brood
+une tartine | een boterham
+le chocolat | de chocolade | J'ai mangé du chocolat.
+la confiture | de confituur, de jam | J'ai pris de la confiture.
+le sucre | de suiker | Il n'y a plus de sucre.
+la viande | het vlees
+la charcuterie | de fijne vleeswaren
+le jambon | de ham
+le poisson | de vis
+le fromage | de kaas
+le beurre | de boter
+un œuf | een ei
+des frites (f.) | frieten
+la mayonnaise | de mayonaise
+une pizza | een pizza
+une sauce | een saus
+la soupe | de soep
+des spaghettis (m.) | spaghetti
+un dessert | een dessert
+une glace | een ijsje
+
+## bao-drank | Drinken | Lager onderwijs
+avoir soif | dorst hebben
+boire | drinken
+le lait | de melk | Il y a encore du lait?
+le vin | de wijn | Je ne bois pas de vin.
+une bière | een bier, een biertje
+un coca | een cola
+un jus de fruits | een fruitsap
+une limonade | een limonade
+un café | een koffie
+un chocolat chaud | een warme chocolademelk
+un thé | een thee
+
+## bao-diensten | Telefoon, internet & hulp | Lager onderwijs
+téléphoner (à) | telefoneren (naar), bellen
+un appareil | een toestel | Allo? Qui est à l'appareil?
+allo? | hallo? | Allo? Je peux parler à Micha?
+surfer | surfen | Surfer sur Internet.
+l'Internet (m.) | het internet
+un agent (de police) | een (politie)agent
+un docteur | een dokter
+un médicament | een geneesmiddel
+un hôpital | een ziekenhuis
+
+## bao-taal | Taal & klas | Lager onderwijs
+le néerlandais | het Nederlands
+le français | het Frans
+l'anglais (m.) | het Engels
+un mot | een woord
+une phrase | een zin
+un texte | een tekst
+un message | een boodschap, een bericht
+une histoire | een verhaal, een geschiedenis
+comprendre | begrijpen | Pardon, je n'ai pas compris.
+connaitre | kennen | Je ne connais pas cette adresse.
+savoir | weten, kennen | Je ne sais pas où c'est.
+penser (à) | denken (aan)
+dire | zeggen | Qu'est-ce que tu veux dire?
+parler | spreken | Je ne parle pas français.
+raconter | vertellen | Je peux raconter quelque chose?
+demander | vragen | Je veux demander quelque chose.
+une question | een vraag | J'ai une question.
+une réponse | een antwoord | Je ne sais pas la réponse.
+une faute | een fout | Il y a une faute dans l'exercice.
+lire | lezen
+écrire | schrijven
+chatter | chatten
+Vous pouvez répéter? | Kunt u dat herhalen?
+Vous pouvez parler moins vite? | Kunt u trager spreken?
+Je ne comprends pas. | Ik begrijp het niet.
+Je ne sais pas. | Ik weet het niet.
+Comment on dit ... en français? | Hoe zeg je ... in het Frans?
+
+## bao-weer | Weer | Lager onderwijs
+le temps | het weer | Quel temps fait-il?
+le soleil | de zon | Il y a du soleil.
+le vent | de wind | Il y a du vent.
+la neige | de sneeuw | Il y a de la neige.
+Il fait beau. | Het is mooi weer.
+Il fait chaud. | Het is warm.
+Il fait mauvais. | Het is slecht weer.
+Il fait froid. | Het is koud.
+neiger | sneeuwen | Il neige. Il va neiger.
+pleuvoir | regenen | Il pleut. Il va pleuvoir.
+un parapluie | een paraplu, een regenscherm

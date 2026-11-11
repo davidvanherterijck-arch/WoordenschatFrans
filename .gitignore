@@ -1,0 +1,7 @@
+# Bronmateriaal blijft lokaal (foto's van het handboek, PDF)
+*.jpg
+*.jpeg
+*.png
+!icons/*.png
+*.pdf
+.claude/
